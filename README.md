@@ -13,6 +13,7 @@ La distribució de qui farà cada tasca no és molt important, perque tots farem
       - Noemí dels autobusos interns
       - I Álex dels ferrocarrils
 Però, dins de cada mitja de transport hi ha molta informació: rutes, problemes típics, model dels instruments de mobilitat...
+
 Tenim intencions de crear una pagina web on es podra solicitar tota la informació que cercarem, o un dashboard amb la mateixa funció.
 
 ## 3. El nostre proposit
